@@ -1,7 +1,7 @@
 ◆Reactチュートリアル
 https://ja.reactjs.org/tutorial/tutorial.html
 
-◆React_hocks 概要
+◆React_hocks 概要Q
 https://mantine.dev/
 
 ◆HTML to JSX
