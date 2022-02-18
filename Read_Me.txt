@@ -1,6 +1,10 @@
 ★Frontend Developer Roadmaps★ 2021
 https://zenn.dev/kkeeth/scraps/dd30ae9d48f092
 
+★フロントエンドのデザインパターン★
+https://zenn.dev/morinokami/books/learning-patterns-1/viewer/singleton-pattern
+
+
 
 ◆Reactチュートリアル
 https://ja.reactjs.org/tutorial/tutorial.html
@@ -197,6 +201,9 @@ https://zenn.dev/mizchi/articles/1c35fdcc77065c02f631
 
 
 
+拡張子で明示的にしておくことで、「このファイルにJSXを書くべきではない」ことを表すことができるため
+（UIコンポーネントのファイルか、ロジックを書くファイルか）
+https://qiita.com/y-hira18/items/f67cfc45a70c7c25708a
 
 Reactチュートリアル理解編：
 https://qiita.com/testMenta339/items/65263102c5f82c69e7c7
